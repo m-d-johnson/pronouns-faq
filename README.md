@@ -1,6 +1,6 @@
 # Pronouns: FAQs (Full Version)
 
-This list of FAQs was written to accompany communication to an organisation's employees on how to list their pronouns on their email and instant messenger tools. It's not intended to cover all the questions that may arise 
+This list of FAQs was written to accompany communication to an organisation's employees on how to list their pronouns on their email and instant messenger tools. It's not intended to cover all the questions that may arise.
 
 ## Why do we want to list pronouns?
 
@@ -42,8 +42,8 @@ The best thing to do is correct yourself and continue your conversation.  Don�
 
 Here are some examples of how to handle it well:
 
-- “Jane - sorry, Joe, - recently joined the claims team.”
-- "I know he - I mean she - was working in London."
+- “Alice - sorry, Alex, - recently joined the claims team.”
+- "I know, she - I mean he, is working in London now."
 
 You’d only find yourself having trouble if you persistently and deliberately disrespected a colleague by refusing to use their stated pronouns or making a point of using other pronouns to be disrespectful to them, so it’s no different from any other behaviour that persistently disrespects someone else.  There are no new rules here - we’ve always been expected to respect our colleagues, and this principle remains true.
 

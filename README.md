@@ -1,10 +1,12 @@
 # Pronouns: FAQs (Full Version)
 
+This list of FAQs was written to accompany communication to an organisation's employees on how to list their pronouns on their email and instant messenger tools. It's not intended to cover all the questions that may arise 
+
 ## Why do we want to list pronouns?
 
 ### **Why should I do this?**
 
-To some people, it matters.  It’s a really easy way to show allyship to transgender and non-binary colleagues and normalise a practice that helps them. The more people who do this, the less obvious it is for a transgender, nonbinary, or questioning person to need to out themselves by being the only person to list them.
+It’s a really easy way to show allyship to transgender and non-binary colleagues and normalise a practice that helps them. The more people who do this, the less obvious it is for a transgender, nonbinary, or questioning person to need to out themselves by being the only person to list them.
 
 ### **Why does it matter to anyone?**
 
@@ -14,7 +16,7 @@ Language is a powerful tool we use daily to affirm people’s identities.  Titl
 
 ### **Why should everyone do this if it only matters to a few?**
 
-[It’s good to do things that matter to people in minority groups](https://www.notion.so/Inclusion-Diversity-635a154ce1074e29a7b6f1974a4bf2f1?pvs=21).  It makes people feel welcomed and included.  Making people feel like this helps build an environment where everyone feels safe, empowered, and valued, which [empowers them to succeed](https://www.notion.so/d2238bb545f04fb6bd204747ccd1fef1?pvs=21).
+It’s good to do things that matter to people in minority groups.  It makes people feel welcomed and included.  Making people feel like this helps build an environment where everyone feels safe, empowered, and valued.
 
 ### **Why does it matter what pronouns I use if someone isn’t present?**
 
@@ -24,13 +26,9 @@ Language is a powerful tool, and how we use it is important. It’s still import
 
 This is about an individual’s identity, not about their body. We don’t want to make decisions based on how others look or what we think their physical anatomy is like. We want to base our behaviour around what makes others feel respected.
 
-### Do I have to do this?
-
-No. It’s entirely up to you. We hope you’ll choose to display your pronouns, but we also respect your decisions.
-
 ### **Do I have to set and/or list my pronouns?**
 
-No. It’s entirely up to you. We hope you’ll choose to display your pronouns, but we also respect your decisions.
+No. It’s entirely up to you. We hope you’ll choose to display your pronouns, but we'll also respect your decision if you choose not to.
 
 ## How do I use pronouns?
 
@@ -78,7 +76,7 @@ No. Just like your name might be how you prefer people to address you, it doesn�
 
 ### **Do all non-binary people use they/them? Does it mean that people who use they/them are non-binary?**
 
-Sadly, it’s not that simple.  If someone states that their pronouns are they/them, it just means that their stated pronouns are they/them.  Similarly, some non-binary people use binary pronouns (he/him or she/her).  There are various reasons for this; they might not feel safe coming out, they might not be sure what they prefer, or they may just be content with the pronouns others use.  Some people don’t care.  The decisions people make on this are their own, though, and it’s important to respect them.  Like other aspects of an individual’s identity, nobody owes an explanation or justification to anyone else about their pronouns.
+Sadly, it’s not that simple.  If someone states that their pronouns are they/them, it just means that their stated pronouns are they/them.  Similarly, some non-binary people use binary pronouns (he/him or she/her).  There are various reasons for this; they might not feel safe coming out, they might not be sure what they prefer, or they may just be content with the pronouns others already use for them.  Some people don’t care.  The decisions people make on this are their own, though, and it’s important to respect them.  Like other aspects of an individual’s identity, nobody owes an explanation or justification to anyone else about their pronouns.
 
 ### **Does this mean someone has changed or is going to change gender? What are they going to change?**
 
@@ -94,7 +92,7 @@ ES: [lambda in Valencia](https://lambdavalencia.org/), [Arcópoli in Madrid](htt
 
 UK: [Spectra](https://spectra-london.org.uk/trans-services/), [LGBT Foundation](https://lgbt.foundation/trans-resources/)
 
-### **I don’t think people should change from he/him to she/her or the reverse. I don’t think they/them is a valid choice. I want to debate it with someone and tell them they’re wrong.**
+### **I don’t think people should change from he/him to she/her or the reverse. I don’t think they/them is a valid choice. I want to debate it with someone so I can tell them they’re wrong.**
 
 There’s that singular ‘they’ again. Please don’t do this. Aspects of our identity aren’t for debate and it’s no more appropriate than arguing against their sexual orientation, religion, or disability.
 
@@ -110,8 +108,8 @@ You might also find the following articles useful:
 
 ---
 
-**Other Questions, Out of Scope:**
+## **Other Questions, Out of Scope:**
 
 **My colleague just came out as trans and I don’t know what to do.  I have questions, and I don’t feel comfortable asking them directly.**
 
-This FAQ focuses on pronouns in our workplace tools, so it doesn’t cover the breadth of topics that arise when this happens.  The best strategy is to listen to what your colleague tells you, which might be that they’d like you to use a different name and pronouns for them. It might also mean being conscious of using gendered language or asking their manager for advice. Remember that it’s normal and acceptable for people to make new requests or change what they’ve already requested.  Coming out is a tough step to take, and nobody does it for fun.  Above all, treat them with the same respect you’d give any of your colleagues.
+This FAQ focuses on pronouns in workplace tools like your email account and Slack profile so it doesn’t cover the breadth of topics that arise when this happens.  The best strategy is to listen to what your colleague tells you, which might be that they’d like you to use a different name and pronouns for them. It might also mean being conscious of using gendered language or asking their manager or someone they nominate for advice. Remember, it’s normal and acceptable for people to make new requests or change what they’ve already requested.  Coming out is a tough step to take, and nobody does it for fun.  Above all, treat them with the same respect you’d give any of your colleagues.
